@@ -1,1 +1,1 @@
-# Cu.WebApiConsuming.start.cursus
+# Cursusvoorbeeld WEB API consumeren
